@@ -1614,10 +1614,10 @@
       "name": "angular-dynamic-i18n",
       "thumb": "angular-dynamic-i18n/thumb.png",
       "desc": "Dynamic i18n for AngularJS",
-      "url": "http://s-bouchard.github.io/angular-dynamic-i18n",
-      "src": "https://github.com/s-bouchard/angular-dynamic-i18n.git",
+      "url": "http://sbouchard.github.io/angular-dynamic-i18n",
+      "src": "https://github.com/sbouchard/angular-dynamic-i18n.git",
       "submitter": "sbouchard",
-      "submissionDate": "2013-07-09",
+      "submissionDate": "2013-07-12",
       "tags": [
         "Production",
         "Component",
